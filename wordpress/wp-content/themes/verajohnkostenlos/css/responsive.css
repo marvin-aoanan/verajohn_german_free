@@ -1,0 +1,106 @@
+/* #Media Queries
+================================================== */
+
+/* Retina Images */
+@media all and (-webkit-min-device-pixel-ratio: 2) {
+
+}
+
+/* Fixed Game Tiles */
+@media only screen and (min-width: 1920px) {   
+    .col-xl-4 { -ms-flex: 0 0 25%; flex: 0 0 25%; max-width: 25%; }
+}
+
+@media only screen and (min-width: 1200px) and (max-width: 1500px) {   
+    .col-xl-4 { -ms-flex: 0 0 50%; flex: 0 0 50%; max-width: 50%; }
+}
+
+
+/* Specific Widescreen Only (devices and browsers) 1280px*/
+@media only screen and (max-width: 1280px) {	
+}    
+
+/* .col-lg < 1200px*/
+@media only screen and (max-width: 1199px) {
+ 
+	  
+}
+
+/* Tablet Landscape + (devices and browsers - main 960) 1024px*/
+@media only screen and (max-width: 1024px) {
+
+
+}
+
+/* Smaller than standard 960 (devices and browsers) 959px*/
+@media only screen and (max-width: 959px) {
+
+
+}
+
+/* .col-md < 992px*/
+@media only screen and (max-width: 991px) {      
+    .ad_leaderboard { display: none; }
+    .ad_mrec { display: none; }
+    .ad_skyscraper { display: none; }
+    .ad_leaderboard_m { display: flex; }
+    .ad_mrec_m { display: flex; }
+    .ad_skyscraper_m { display: flex; } 
+    .ad_mrec { display: none; } 
+    .gt { margin: 5px 0 !important; }
+}
+
+/* .col-sm < 768px*/
+@media only screen and (max-width: 767px) {	  
+ 	.m-only { display: inline !important; }
+    .ad_leaderboard_m { display: none; }
+}
+
+
+/* Tablet Portrait size to standard 960 (devices and browsers) 768px*/
+@media only screen and (min-width: 768px) and (max-width: 959px) {
+      
+}
+
+/* All Mobile Sizes (devices and browser) 480px */
+@media only screen and (max-width: 767px) {	
+  #sidebar {
+      margin-left: -200px;
+  }
+  #sidebar.active {
+      margin-left: 0;
+  }
+  #sidebarCollapse span {
+      display: none;
+  }
+}
+
+/* .col- < 576px*/
+@media only screen and (max-width: 575px) {	  
+    
+}
+
+
+/* Mobile Landscape Size to Tablet Portrait - Nexus (devices and browsers)  480px*/
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+
+
+}
+
+/* Mobile Portrait Size to Mobile Landscape Size (devices and browsers) 320px */
+@media only screen and (max-width: 479px) {
+
+
+}
+
+/* ---------------------------------------------------
+    HEIGHT MEDIAQUERIES
+----------------------------------------------------- */
+@media only screen and (max-height: 2000px) {	
+  .ad_skyscraper { display: none; }
+  .ad_skyscraper_m { display: flex; } 
+}
+
+@media only screen and (max-height: 960px) {	
+  .ad_skyscraper_m { display: none; } 
+}

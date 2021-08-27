@@ -1,0 +1,170 @@
+# Translation of Plugins - underConstruction - Stable (latest release) in German
+# This file is distributed under the same license as the Plugins - underConstruction - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-12-16 13:03:57+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: de\n"
+"Project-Id-Version: Plugins - underConstruction - Stable (latest release)\n"
+
+#. Author URI of the plugin/theme
+msgid "http://SumoMe.com/"
+msgstr "http://SumoMe.com/"
+
+#. Author of the plugin/theme
+msgid "Noah Kagan"
+msgstr "Noah Kagan"
+
+#. Description of the plugin/theme
+msgid "Makes it so your site can only be accessed by users who log in. Useful for developing a site on a live server, without the world being able to see it"
+msgstr "Mit diesem Plugin kannst du einstellen, dass nur eingeloggte Benutzer deine Seite sehen. Dies ist nützlich, wenn du eine Seite entwickelst, ohne dass die ganze Welt es sieht."
+
+#. Plugin URI of the plugin/theme
+msgid "https://wordpress.org/plugins/underconstruction/"
+msgstr "https://de.wordpress.org/plugins/underconstruction/"
+
+#: underConstruction.php:360
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: underConstruction.php:312
+msgid "Looking for more sharing tools?"
+msgstr "Suchst du nach mehr Sharing-Tools?"
+
+#: ucOptions.php:345
+msgid "Save Changes"
+msgstr "Änderungen speichern"
+
+#: ucOptions.php:339
+msgid "Put in this area the HTML you want to show up on your front page"
+msgstr "Gib hier den HTML-Code ein, der auf deiner Startseite angezeigt werden soll"
+
+#: ucOptions.php:338
+msgid "Under Construction Page HTML"
+msgstr "HTML-Code für „Im Aufbau“-Seite"
+
+#: ucOptions.php:331
+msgid "Body Text"
+msgstr "Inhalt"
+
+#: ucOptions.php:327
+msgid "Header Text"
+msgstr "Überschrift"
+
+#: ucOptions.php:323
+msgid "Page Title"
+msgstr "Page Title"
+
+#: ucOptions.php:320
+msgid "The text here will replace the text on the default page"
+msgstr "Dieser ersetzt den Text auf der Standardseite"
+
+#: ucOptions.php:319
+msgid "Display Custom Text"
+msgstr "Benutzerdefinierten Text anzeigen"
+
+#: ucOptions.php:310 ucOptions.php:311
+msgid "Display a custom page using your own HTML"
+msgstr "Seite mit benutzerdefiniertem HTML-Code anzeigen"
+
+#: ucOptions.php:307 ucOptions.php:308
+msgid "Display the default under construction page, but use custom text"
+msgstr "Standard-„Im Aufbau“-Seite anzeigen, aber benutzerdefinierten Text verwenden"
+
+#: ucOptions.php:303
+msgid "Only available for themes with an under-construction.php file"
+msgstr "Nur für Themes verfügbar, die eine „under-construction.php“-Datei beinhalten"
+
+#: ucOptions.php:299 ucOptions.php:300
+msgid "Display the under construction page that is part of the active theme"
+msgstr "„Im Aufbau“-Seite anzeigen, die im aktiven Theme enthalten ist"
+
+#: ucOptions.php:296 ucOptions.php:297
+msgid "Display the default under construction page"
+msgstr "Standard-„Im Aufbau“-Seite anzeigen"
+
+#: ucOptions.php:287 ucOptions.php:294
+msgid "Display Options"
+msgstr "Optionen anzeigen"
+
+#: ucOptions.php:280
+msgid "Add Current Address"
+msgstr "Aktuelle Adresse hinzufügen"
+
+#: ucOptions.php:279
+msgid "IP Address:"
+msgstr "IP-Adresse:"
+
+#: ucOptions.php:277
+msgid "Remove Selected IP Address"
+msgstr "Ausgewählte IP-Adresse entfernen"
+
+#: ucOptions.php:262
+msgid "IP Address Whitelist"
+msgstr "IP-Whitelist"
+
+#: ucOptions.php:241
+msgid "All Users"
+msgstr "Alle Benutzer"
+
+#: ucOptions.php:239
+msgid "Only users at or above this level will be able to log in:"
+msgstr "Nur Benutzer mit gleichen oder höheren Rechten können sich einloggen:"
+
+#: ucOptions.php:235
+msgid "Restrict By Role"
+msgstr "Einschränkung nach Benutzerrolle"
+
+#: ucOptions.php:228
+msgid "Redirect Location:"
+msgstr "Umleitungsadresse:"
+
+#: ucOptions.php:224
+msgid "HTTP 503 - Service Unavailable"
+msgstr "HTTP 503 - Nicht verfügbar"
+
+#: ucOptions.php:222
+msgid "HTTP 301 - Redirect"
+msgstr "HTTP 301 - Umleitung"
+
+#: ucOptions.php:219
+msgid "HTTP 200 - ok"
+msgstr "HTTP 200 - OK"
+
+#: ucOptions.php:209
+msgid "You can choose to send the standard HTTP status code with the under construction page, or send a 503 \"Service Unavailable\" status code. This will tell Google that this page isn't ready yet, and cause your site not to be listed until this plugin is disabled."
+msgstr "Du kannst auswählen, welcher HTTP-Statuscode für deine „Im Aufbau“-Seite gesendet werden soll. Du kannst den Code „503“ einstellen, damit weiß z. B. Google, dass deine Seite noch nicht fertig ist und zeigt sie auch nicht in den Suchergebnissen an, bis du dieses Plugin deaktivierst."
+
+#: ucOptions.php:208 ucOptions.php:216
+msgid "HTTP Status Code"
+msgstr "HTTP-Statuscode"
+
+#: ucOptions.php:201
+msgid "off"
+msgstr "aus"
+
+#: ucOptions.php:198
+msgid "on"
+msgstr "an"
+
+#: ucOptions.php:188 ucOptions.php:195
+msgid "Activate or Deactivate"
+msgstr "Aktivierung/Deaktivierung"
+
+#. #-#-#-#-#  tmp-underconstruction.pot (Under Construction 1.14)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: ucOptions.php:184
+msgid "Under Construction"
+msgstr "Im Aufbau"
+
+#: ucOptions.php:172
+msgid "Tools to grow your Email List, Social Sharing and Analytics."
+msgstr "Werkzeuge für Mailing-List, Social-Sharing und Analytics."
+
+#: ucOptions.php:159
+msgid "JavaScript appears to be disabled in your browser. For this plugin to work correctly, please enable JavaScript or switch to a more modern browser."
+msgstr "JavaScript scheint in deinem Browser deaktiviert zu sein. Damit dieses Plugin korrekt funktioniert, aktiviere bitte JavaScript oder steig auf einen moderneren Browser um."

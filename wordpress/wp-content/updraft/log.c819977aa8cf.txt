@@ -1,0 +1,491 @@
+0000.001 (0) Opened log file at time: Fri, 16 Jul 2021 08:45:20 +0000 on https://www.verajohnkostenlos.de
+0000.005 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.29 WP: 5.4.6 PHP: 7.1.30 (fpm-fcgi, Linux do1plng-wf01a 3.10.0-1062.1.2.el7.x86_64 #1 SMP Mon Sep 30 14:19:46 UTC 2019 x86_64) MySQL: 5.7.21-log WPLANG: de_DE Server: nginx/1.16.1 safe_mode: 0 max_execution_time: 900 memory_limit: 512M (used: 62.5M | 34M) multisite: N openssl: OpenSSL 1.0.2k  26 Jan 2017 mcrypt: Y LANG:  ZipArchive::addFile: Y
+0000.007 (0) Free space on disk containing Updraft's temporary directory: 29097.8 MB
+0000.011 (0) Deleting old log file: log.2fb8d0798070.txt
+0000.015 (0) Tasks: Backup files: 1 (schedule: weekly) Backup DB:  (schedule: weekly)
+0000.017 (0) Processed schedules. Combining jobs from identical schedules. Tasks now: Backup files: 1 Backup DB: 1
+0000.023 (0) Requesting semaphore lock (fd) (apparently via scheduler: last_scheduled_action_called_at=1625823311, seconds_ago=601809)
+0000.031 (0) Set semaphore last lock (fd) time to 2021-07-16 08:45:20
+0000.034 (0) Semaphore lock (fd) complete
+0000.044 (0) Backup run: resumption=0, nonce=c819977aa8cf, file_nonce=c819977aa8cf begun at=1626425120 (0s ago), job type=backup
+0000.048 (0) Scheduling a resumption (1) after 300 seconds (1626425420) in case this run gets aborted
+0000.075 (0) Checking if we have a zip executable available
+0000.081 (0) Creation of backups of directories: beginning
+0000.088 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0000.460 (0) Total entities for the zip file: 1479 directories, 7217 files (0 skipped as non-modified), 76.7 MB
+0000.486 (0) Zip: backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-plugins.zip.tmp: 100 files added (on-disk size: 0 KB)
+0000.507 (0) Zip: backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-plugins.zip.tmp: 200 files added (on-disk size: 0 KB)
+0000.526 (0) Zip: backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-plugins.zip.tmp: 300 files added (on-disk size: 0 KB)
+0000.553 (0) Zip: backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-plugins.zip.tmp: 400 files added (on-disk size: 0 KB)
+0000.586 (0) Zip: backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-plugins.zip.tmp: 500 files added (on-disk size: 0 KB)
+0000.589 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (7.2 MB, 7217 files batched, 501 (501) added so far); re-opening (prior size: 0 KB)
+0001.699 (0) Zip: backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-plugins.zip.tmp: 600 files added (on-disk size: 2428.5 KB)
+0001.721 (0) Zip: backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-plugins.zip.tmp: 700 files added (on-disk size: 2428.5 KB)
+0001.750 (0) Zip: backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-plugins.zip.tmp: 800 files added (on-disk size: 2428.5 KB)
+0001.770 (0) Zip: backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-plugins.zip.tmp: 900 files added (on-disk size: 2428.5 KB)
+0001.789 (0) Zip: backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-plugins.zip.tmp: 1000 files added (on-disk size: 2428.5 KB)
+0001.793 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (2.6 MB, 7217 files batched, 501 (1002) added so far); re-opening (prior size: 2428.5 KB)
+0002.256 (0) Zip: backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-plugins.zip.tmp: 1100 files added (on-disk size: 3331.4 KB)
+0002.270 (0) Zip: backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-plugins.zip.tmp: 1200 files added (on-disk size: 3331.4 KB)
+0002.284 (0) Zip: backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-plugins.zip.tmp: 1300 files added (on-disk size: 3331.4 KB)
+0002.298 (0) Zip: backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-plugins.zip.tmp: 1400 files added (on-disk size: 3331.4 KB)
+0002.313 (0) Zip: backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-plugins.zip.tmp: 1500 files added (on-disk size: 3331.4 KB)
+0002.316 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (1.5 MB, 7217 files batched, 501 (1503) added so far); re-opening (prior size: 3331.4 KB)
+0002.561 (0) Zip: backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-plugins.zip.tmp: 1600 files added (on-disk size: 3883.2 KB)
+0002.577 (0) Zip: backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-plugins.zip.tmp: 1700 files added (on-disk size: 3883.2 KB)
+0002.592 (0) Zip: backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-plugins.zip.tmp: 1800 files added (on-disk size: 3883.2 KB)
+0002.606 (0) Zip: backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-plugins.zip.tmp: 1900 files added (on-disk size: 3883.2 KB)
+0002.620 (0) Zip: backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-plugins.zip.tmp: 2000 files added (on-disk size: 3883.2 KB)
+0002.624 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (4.3 MB, 7217 files batched, 501 (2004) added so far); re-opening (prior size: 3883.2 KB)
+0003.601 (0) Zip: backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-plugins.zip.tmp: 2100 files added (on-disk size: 5423.4 KB)
+0003.616 (0) Zip: backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-plugins.zip.tmp: 2200 files added (on-disk size: 5423.4 KB)
+0003.630 (0) Zip: backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-plugins.zip.tmp: 2300 files added (on-disk size: 5423.4 KB)
+0003.645 (0) Zip: backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-plugins.zip.tmp: 2400 files added (on-disk size: 5423.4 KB)
+0003.660 (0) Zip: backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-plugins.zip.tmp: 2500 files added (on-disk size: 5423.4 KB)
+0003.664 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (2.3 MB, 7217 files batched, 501 (2505) added so far); re-opening (prior size: 5423.4 KB)
+0004.017 (0) Zip: backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-plugins.zip.tmp: 2600 files added (on-disk size: 6737.8 KB)
+0004.033 (0) Zip: backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-plugins.zip.tmp: 2700 files added (on-disk size: 6737.8 KB)
+0004.050 (0) Zip: backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-plugins.zip.tmp: 2800 files added (on-disk size: 6737.8 KB)
+0004.068 (0) Zip: backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-plugins.zip.tmp: 2900 files added (on-disk size: 6737.8 KB)
+0004.085 (0) Zip: backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-plugins.zip.tmp: 3000 files added (on-disk size: 6737.8 KB)
+0004.088 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (2.6 MB, 7217 files batched, 501 (3006) added so far); re-opening (prior size: 6737.8 KB)
+0004.511 (0) Zip: backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-plugins.zip.tmp: 3100 files added (on-disk size: 7667.8 KB)
+0004.526 (0) Zip: backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-plugins.zip.tmp: 3200 files added (on-disk size: 7667.8 KB)
+0004.540 (0) Zip: backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-plugins.zip.tmp: 3300 files added (on-disk size: 7667.8 KB)
+0004.553 (0) Zip: backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-plugins.zip.tmp: 3400 files added (on-disk size: 7667.8 KB)
+0004.567 (0) Zip: backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-plugins.zip.tmp: 3500 files added (on-disk size: 7667.8 KB)
+0004.571 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (5.6 MB, 7217 files batched, 501 (3507) added so far); re-opening (prior size: 7667.8 KB)
+0005.194 (0) Zip: backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-plugins.zip.tmp: 3600 files added (on-disk size: 9788 KB)
+0005.210 (0) Zip: backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-plugins.zip.tmp: 3700 files added (on-disk size: 9788 KB)
+0005.225 (0) Zip: backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-plugins.zip.tmp: 3800 files added (on-disk size: 9788 KB)
+0005.241 (0) Zip: backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-plugins.zip.tmp: 3900 files added (on-disk size: 9788 KB)
+0005.257 (0) Zip: backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-plugins.zip.tmp: 4000 files added (on-disk size: 9788 KB)
+0005.261 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (15.9 MB, 7217 files batched, 501 (4008) added so far); re-opening (prior size: 9788 KB)
+0007.364 (0) Zip: backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-plugins.zip.tmp: 4100 files added (on-disk size: 14085.4 KB)
+0007.385 (0) Zip: backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-plugins.zip.tmp: 4200 files added (on-disk size: 14085.4 KB)
+0007.406 (0) Zip: backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-plugins.zip.tmp: 4300 files added (on-disk size: 14085.4 KB)
+0007.428 (0) Zip: backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-plugins.zip.tmp: 4400 files added (on-disk size: 14085.4 KB)
+0007.450 (0) Zip: backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-plugins.zip.tmp: 4500 files added (on-disk size: 14085.4 KB)
+0007.455 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (2.3 MB, 7217 files batched, 501 (4509) added so far); re-opening (prior size: 14085.4 KB)
+0008.047 (0) Zip: backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-plugins.zip.tmp: 4600 files added (on-disk size: 14858.5 KB)
+0008.062 (0) Zip: backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-plugins.zip.tmp: 4700 files added (on-disk size: 14858.5 KB)
+0008.082 (0) Zip: backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-plugins.zip.tmp: 4800 files added (on-disk size: 14858.5 KB)
+0008.102 (0) Zip: backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-plugins.zip.tmp: 4900 files added (on-disk size: 14858.5 KB)
+0008.121 (0) Zip: backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-plugins.zip.tmp: 5000 files added (on-disk size: 14858.5 KB)
+0008.126 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (7 MB, 7217 files batched, 501 (5010) added so far); re-opening (prior size: 14858.5 KB)
+0009.040 (0) Zip: backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-plugins.zip.tmp: 5100 files added (on-disk size: 17486.8 KB)
+0009.054 (0) Zip: backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-plugins.zip.tmp: 5200 files added (on-disk size: 17486.8 KB)
+0009.069 (0) Zip: backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-plugins.zip.tmp: 5300 files added (on-disk size: 17486.8 KB)
+0009.082 (0) Zip: backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-plugins.zip.tmp: 5400 files added (on-disk size: 17486.8 KB)
+0009.096 (0) Zip: backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-plugins.zip.tmp: 5500 files added (on-disk size: 17486.8 KB)
+0009.100 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (5 MB, 7217 files batched, 501 (5511) added so far); re-opening (prior size: 17486.8 KB)
+0009.856 (0) Zip: backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-plugins.zip.tmp: 5600 files added (on-disk size: 19925.4 KB)
+0009.877 (0) Zip: backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-plugins.zip.tmp: 5700 files added (on-disk size: 19925.4 KB)
+0009.897 (0) Zip: backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-plugins.zip.tmp: 5800 files added (on-disk size: 19925.4 KB)
+0009.920 (0) Zip: backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-plugins.zip.tmp: 5900 files added (on-disk size: 19925.4 KB)
+0009.942 (0) Zip: backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-plugins.zip.tmp: 6000 files added (on-disk size: 19925.4 KB)
+0009.947 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (2.3 MB, 7217 files batched, 501 (6012) added so far); re-opening (prior size: 19925.4 KB)
+0010.560 (0) Zip: backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-plugins.zip.tmp: 6100 files added (on-disk size: 20676.6 KB)
+0010.575 (0) Zip: backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-plugins.zip.tmp: 6200 files added (on-disk size: 20676.6 KB)
+0010.590 (0) Zip: backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-plugins.zip.tmp: 6300 files added (on-disk size: 20676.6 KB)
+0010.606 (0) Zip: backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-plugins.zip.tmp: 6400 files added (on-disk size: 20676.6 KB)
+0010.621 (0) Zip: backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-plugins.zip.tmp: 6500 files added (on-disk size: 20676.6 KB)
+0010.625 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (5.4 MB, 7217 files batched, 501 (6513) added so far); re-opening (prior size: 20676.6 KB)
+0011.653 (0) Zip: backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-plugins.zip.tmp: 6600 files added (on-disk size: 22296.5 KB)
+0011.672 (0) Zip: backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-plugins.zip.tmp: 6700 files added (on-disk size: 22296.5 KB)
+0011.691 (0) Zip: backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-plugins.zip.tmp: 6800 files added (on-disk size: 22296.5 KB)
+0011.711 (0) Zip: backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-plugins.zip.tmp: 6900 files added (on-disk size: 22296.5 KB)
+0011.731 (0) Zip: backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-plugins.zip.tmp: 7000 files added (on-disk size: 22296.5 KB)
+0011.737 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (10.8 MB, 7217 files batched, 501 (7014) added so far); re-opening (prior size: 22296.5 KB)
+0016.272 (0) Zip: backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-plugins.zip.tmp: 7100 files added (on-disk size: 26448.5 KB)
+0016.296 (0) Zip: backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-plugins.zip.tmp: 7200 files added (on-disk size: 26448.5 KB)
+0017.449 (0) Created plugins zip (0) - 27108.9 KB in 17.4 s (1561.8 KB/s) (sha1: 1c12b7dc5e401c61d22737bcc9eb3b89d7007e8b, sha256: 636451f4095e1ad259282ad5aadfe24d684e28abdbf7f8526935163cd9ec588e)
+0017.454 (0) Beginning creation of dump of themes (split every: 400 MB)
+0017.463 (0) Total entities for the zip file: 10 directories, 72 files (0 skipped as non-modified), 0.8 MB
+0017.542 (0) Created themes zip (0) - 306.6 KB in 0.1 s (3660.5 KB/s) (sha1: 80973b180aac99fbabaaaff43813277d86646ce9, sha256: 5e085107a71d08c3abeaa898aab29a3f69f297b8b8b367044135c229096bc84d)
+0017.548 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0017.550 (0) Looking for candidates to backup in: /www/wp-sites/wp_verajohnkostenlos_de/wp-content/uploads
+0017.553 (0) finding files: 2020: adding to list (1)
+0017.555 (0) finding files: ur-logs: adding to list (2)
+0017.557 (0) finding files: cache: adding to list (3)
+0017.559 (0) finding files: backup: skipping: excluded by options (glob)
+0017.561 (0) finding files: wp-clone: skipping: excluded by options
+0017.563 (0) finding files: 2021: adding to list (4)
+0017.566 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0017.603 (0) Total entities for the zip file: 52 directories, 1011 files (0 skipped as non-modified), 87.2 MB
+0017.624 (0) Zip: backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-uploads.zip.tmp: 100 files added (on-disk size: 0 KB)
+0017.637 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 25 MB added on this batch (25 MB, 1011 files batched, 158 (158) added so far); re-opening (prior size: 0 KB)
+0017.793 (0) A useful amount of data was added after this amount of zip processing: 1.1 s (normalised: 1.1 s, rate: 22350.8 KB/s)
+0017.797 (0) Performance is good - will increase the amount of data we attempt to batch (time=1.1467480659485, normalised_time=1.1453744153502, max_time=17.794708013535, data points known=1, old_max_bytes=26214400, new_max_bytes=209715200)
+0017.813 (0) Zip: backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-uploads.zip.tmp: 200 files added (on-disk size: 25663.8 KB)
+0017.833 (0) Zip: backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-uploads.zip.tmp: 300 files added (on-disk size: 25663.8 KB)
+0017.854 (0) Zip: backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-uploads.zip.tmp: 400 files added (on-disk size: 25663.8 KB)
+0017.875 (0) Zip: backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-uploads.zip.tmp: 500 files added (on-disk size: 25663.8 KB)
+0017.894 (0) Zip: backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-uploads.zip.tmp: 600 files added (on-disk size: 25663.8 KB)
+0017.908 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (56.5 MB, 1011 files batched, 501 (659) added so far); re-opening (prior size: 25663.8 KB)
+0018.392 (0) Zip: backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-uploads.zip.tmp: 700 files added (on-disk size: 83609 KB)
+0018.405 (0) Zip: backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-uploads.zip.tmp: 800 files added (on-disk size: 83609 KB)
+0018.419 (0) Zip: backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-uploads.zip.tmp: 900 files added (on-disk size: 83609 KB)
+0018.432 (0) Zip: backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-uploads.zip.tmp: 1000 files added (on-disk size: 83609 KB)
+0020.295 (0) Created uploads zip (0) - 89265.3 KB in 2.7 s (32751.7 KB/s) (sha1: 0dd49e199e4cd9f34c08b1f7d4b9e3505ef3a496, sha256: 5225b521be42774597c9f6474dba1ab16538bcc22a02d6f107a8f89bd96d504b)
+0020.299 (0) Beginning backup of other directories found in the content directory (index: 0)
+0020.301 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0020.303 (0) Looking for candidates to backup in: /www/wp-sites/wp_verajohnkostenlos_de/wp-content
+0020.305 (0) finding files: themes: skipping: this is the themes directory
+0020.307 (0) finding files: index.php: adding to list (1)
+0020.308 (0) finding files: plugins: skipping: this is the plugins directory
+0020.310 (0) finding files: uploads: skipping: this is the uploads directory
+0020.312 (0) finding files: upgrade: skipping: excluded by options
+0020.314 (0) finding files: wflogs: adding to list (2)
+0020.315 (0) finding files: cache: skipping: excluded by options
+0020.317 (0) finding files: languages: adding to list (3)
+0020.319 (0) finding files: ai1wm-backups: skipping: excluded by options (glob)
+0020.321 (0) finding files: updraft: skipping: this is the updraft directory
+0020.326 (0) Total entities for the zip file: 4 directories, 53 files (0 skipped as non-modified), 8.3 MB
+0024.769 (0) Created others zip (0) - 3359.4 KB in 4.4 s (755.7 KB/s) (sha1: 0d728be04b18f8a55ed328a854e9bae51196d836, sha256: a834813a12b244e76daa1d8cbf022c8dba21c9acbc27e03ffd3de6eea5d53a32)
+0024.780 (0) Saving backup status to database (elements: 8)
+0024.789 (0) Beginning creation of database dump (WordPress DB)
+0024.793 (0) SQL compatibility mode is: NO_ZERO_IN_DATE,ERROR_FOR_DIVISION_BY_ZERO,NO_AUTO_CREATE_USER,NO_ENGINE_SUBSTITUTION
+0024.800 (0) Testing potential mysqldump binary: /usr/bin/mysqldump
+0024.952 (0) Output: /*!40103 SET @OLD_TIME_ZONE=@@TIME_ZONE */;\n/*!40103 SET TIME_ZONE='+00:00' */;\n/*!40014 SET @OLD_UNIQUE_CHECKS=@@UNIQUE_CHECKS, UNIQUE_CHECKS=0 */;\n/*!40014 SET @OLD_FOREIGN_KEY_CHECKS=@@FOREIGN_KEY_CHECKS, FOREIGN_KEY_CHECKS=0 */;\n/*!40101 SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='NO_AUTO_VALUE_ON_ZERO' */;\n/*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;\nDROP TABLE IF EXISTS `wp_options`;\n/*!40101 SET @saved_cs_client     = @@character_set_client */;\n/*!40101 SET character_set_client = utf8 */;\nCRE (truncated - 1249 bytes total)
+0024.959 (0) Working binary mysqldump found: /usr/bin/mysqldump
+0025.002 (0) Table wp_options: Total expected rows (approximate): 1401
+0025.098 (0) Table wp_options: Rows added in this batch (start page: 0; next: finished): 1406 in 0.09 seconds
+0025.103 (0) Table wp_options: finishing file (backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-db-table-wp_options.table.gz - 141.6 KB)
+0025.112 (0) Table wp_users: Total expected rows (approximate): 145
+0025.130 (0) Table wp_users: Rows added in this batch (start page: 0; next: finished): 375 in 0.02 seconds
+0025.134 (0) Table wp_users: finishing file (backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-db-table-wp_users.table.gz - 21.2 KB)
+0025.143 (0) Table wp_usermeta: Total expected rows (approximate): 4989
+0025.287 (0) Table wp_usermeta: Rows added in this batch (start page: 0; next: finished): 7533 in 0.14 seconds
+0025.291 (0) Table wp_usermeta: finishing file (backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-db-table-wp_usermeta.table.gz - 78.6 KB)
+0025.300 (0) Table wp_commentmeta: Total expected rows (approximate): 0
+0025.306 (0) Table wp_commentmeta: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0025.308 (0) Table wp_commentmeta: finishing file (backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-db-table-wp_commentmeta.table.gz - 0.4 KB)
+0025.317 (0) Table wp_comments: Total expected rows (approximate): 0
+0025.329 (0) Table wp_comments: Rows added in this batch (start page: 0; next: finished): 62 in 0.01 seconds
+0025.332 (0) Table wp_comments: finishing file (backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-db-table-wp_comments.table.gz - 8 KB)
+0025.341 (0) Table wp_imagify_files: Total expected rows (approximate): 0
+0025.348 (0) Table wp_imagify_files: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0025.350 (0) Table wp_imagify_files: finishing file (backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-db-table-wp_imagify_files.table.gz - 0.5 KB)
+0025.359 (0) Table wp_imagify_folders: Total expected rows (approximate): 0
+0025.366 (0) Table wp_imagify_folders: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0025.368 (0) Table wp_imagify_folders: finishing file (backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-db-table-wp_imagify_folders.table.gz - 0.4 KB)
+0025.376 (0) Table wp_links: Total expected rows (approximate): 0
+0025.383 (0) Table wp_links: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0025.385 (0) Table wp_links: finishing file (backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-db-table-wp_links.table.gz - 0.4 KB)
+0025.394 (0) Table wp_postmeta: Total expected rows (approximate): 539
+0025.416 (0) Table wp_postmeta: Rows added in this batch (start page: 0; next: finished): 562 in 0.02 seconds
+0025.421 (0) Table wp_postmeta: finishing file (backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-db-table-wp_postmeta.table.gz - 17.2 KB)
+0025.431 (0) Table wp_posts: Total expected rows (approximate): 184
+0025.528 (0) Table wp_posts: Rows added in this batch (start page: 0; next: finished): 191 in 0.09 seconds
+0025.532 (0) Table wp_posts: finishing file (backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-db-table-wp_posts.table.gz - 108.8 KB)
+0025.542 (0) Table wp_term_relationships: Total expected rows (approximate): 19
+0025.550 (0) Table wp_term_relationships: Rows added in this batch (start page: 0; next: finished): 19 in 0.00 seconds
+0025.552 (0) Table wp_term_relationships: finishing file (backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-db-table-wp_term_relationships.table.gz - 0.4 KB)
+0025.562 (0) Table wp_term_taxonomy: Total expected rows (approximate): 14
+0025.567 (0) Table wp_term_taxonomy: Rows added in this batch (start page: 0; next: finished): 14 in 0.00 seconds
+0025.570 (0) Table wp_term_taxonomy: finishing file (backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-db-table-wp_term_taxonomy.table.gz - 0.5 KB)
+0025.578 (0) Table wp_termmeta: Total expected rows (approximate): 0
+0025.583 (0) Table wp_termmeta: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0025.585 (0) Table wp_termmeta: finishing file (backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-db-table-wp_termmeta.table.gz - 0.4 KB)
+0025.594 (0) Table wp_terms: Total expected rows (approximate): 14
+0025.601 (0) Table wp_terms: Rows added in this batch (start page: 0; next: finished): 14 in 0.00 seconds
+0025.604 (0) Table wp_terms: finishing file (backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-db-table-wp_terms.table.gz - 0.6 KB)
+0025.613 (0) Table wp_gdpr_consent: Total expected rows (approximate): 415
+0025.647 (0) Table wp_gdpr_consent: Rows added in this batch (start page: 0; next: finished): 1087 in 0.03 seconds
+0025.650 (0) Table wp_gdpr_consent: finishing file (backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-db-table-wp_gdpr_consent.table.gz - 15.9 KB)
+0025.660 (0) Table wp_gdpr_userlogs: Total expected rows (approximate): 39
+0025.669 (0) Table wp_gdpr_userlogs: Rows added in this batch (start page: 0; next: finished): 40 in 0.01 seconds
+0025.672 (0) Table wp_gdpr_userlogs: finishing file (backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-db-table-wp_gdpr_userlogs.table.gz - 2.5 KB)
+0025.682 (0) Table wp_icl_content_status: Total expected rows (approximate): 0
+0025.689 (0) Table wp_icl_content_status: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0025.691 (0) Table wp_icl_content_status: finishing file (backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-db-table-wp_icl_content_status.table.gz - 0.3 KB)
+0025.700 (0) Table wp_icl_core_status: Total expected rows (approximate): 0
+0025.707 (0) Table wp_icl_core_status: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0025.709 (0) Table wp_icl_core_status: finishing file (backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-db-table-wp_icl_core_status.table.gz - 0.4 KB)
+0025.718 (0) Table wp_icl_flags: Total expected rows (approximate): 64
+0025.726 (0) Table wp_icl_flags: Rows added in this batch (start page: 0; next: finished): 64 in 0.01 seconds
+0025.728 (0) Table wp_icl_flags: finishing file (backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-db-table-wp_icl_flags.table.gz - 0.9 KB)
+0025.737 (0) Table wp_icl_languages: Total expected rows (approximate): 64
+0025.745 (0) Table wp_icl_languages: Rows added in this batch (start page: 0; next: finished): 64 in 0.01 seconds
+0025.748 (0) Table wp_icl_languages: finishing file (backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-db-table-wp_icl_languages.table.gz - 1.6 KB)
+0025.757 (0) Table wp_icl_languages_translations: Total expected rows (approximate): 4096
+0025.825 (0) Table wp_icl_languages_translations: Rows added in this batch (start page: 0; next: finished): 4096 in 0.07 seconds
+0025.829 (0) Table wp_icl_languages_translations: finishing file (backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-db-table-wp_icl_languages_translations.table.gz - 33.8 KB)
+0025.838 (0) Table wp_icl_locale_map: Total expected rows (approximate): 2
+0025.846 (0) Table wp_icl_locale_map: Rows added in this batch (start page: 0; next: finished): 2 in 0.00 seconds
+0025.848 (0) Table wp_icl_locale_map: finishing file (backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-db-table-wp_icl_locale_map.table.gz - 0.3 KB)
+0025.857 (0) Table wp_icl_message_status: Total expected rows (approximate): 0
+0025.864 (0) Table wp_icl_message_status: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0025.866 (0) Table wp_icl_message_status: finishing file (backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-db-table-wp_icl_message_status.table.gz - 0.4 KB)
+0025.875 (0) Table wp_icl_mo_files_domains: Total expected rows (approximate): 13
+0025.882 (0) Table wp_icl_mo_files_domains: Rows added in this batch (start page: 0; next: finished): 21 in 0.00 seconds
+0025.884 (0) Table wp_icl_mo_files_domains: finishing file (backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-db-table-wp_icl_mo_files_domains.table.gz - 1.7 KB)
+0025.893 (0) Table wp_icl_node: Total expected rows (approximate): 0
+0025.899 (0) Table wp_icl_node: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0025.902 (0) Table wp_icl_node: finishing file (backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-db-table-wp_icl_node.table.gz - 0.3 KB)
+0025.910 (0) Table wp_icl_reminders: Total expected rows (approximate): 0
+0025.916 (0) Table wp_icl_reminders: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0025.919 (0) Table wp_icl_reminders: finishing file (backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-db-table-wp_icl_reminders.table.gz - 0.3 KB)
+0025.927 (0) Table wp_icl_string_packages: Total expected rows (approximate): 0
+0025.933 (0) Table wp_icl_string_packages: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0025.936 (0) Table wp_icl_string_packages: finishing file (backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-db-table-wp_icl_string_packages.table.gz - 0.4 KB)
+0025.947 (0) Table wp_icl_string_pages: Total expected rows (approximate): 0
+0025.953 (0) Table wp_icl_string_pages: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0025.956 (0) Table wp_icl_string_pages: finishing file (backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-db-table-wp_icl_string_pages.table.gz - 0.3 KB)
+0025.966 (0) Table wp_icl_string_positions: Total expected rows (approximate): 168
+0025.976 (0) Table wp_icl_string_positions: Rows added in this batch (start page: 0; next: finished): 168 in 0.01 seconds
+0025.979 (0) Table wp_icl_string_positions: finishing file (backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-db-table-wp_icl_string_positions.table.gz - 2.2 KB)
+0025.988 (0) Table wp_icl_string_status: Total expected rows (approximate): 0
+0025.995 (0) Table wp_icl_string_status: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0025.997 (0) Table wp_icl_string_status: finishing file (backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-db-table-wp_icl_string_status.table.gz - 0.4 KB)
+0026.007 (0) Table wp_icl_string_translations: Total expected rows (approximate): 63
+0026.016 (0) Table wp_icl_string_translations: Rows added in this batch (start page: 0; next: finished): 67 in 0.01 seconds
+0026.018 (0) Table wp_icl_string_translations: finishing file (backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-db-table-wp_icl_string_translations.table.gz - 2.4 KB)
+0026.027 (0) Table wp_icl_string_urls: Total expected rows (approximate): 0
+0026.034 (0) Table wp_icl_string_urls: Rows added in this batch (start page: 0; next: finished): 0 in 0.01 seconds
+0026.037 (0) Table wp_icl_string_urls: finishing file (backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-db-table-wp_icl_string_urls.table.gz - 0.4 KB)
+0026.046 (0) Table wp_icl_strings: Total expected rows (approximate): 969
+0026.090 (0) Table wp_icl_strings: Rows added in this batch (start page: 0; next: finished): 986 in 0.04 seconds
+0026.094 (0) Table wp_icl_strings: finishing file (backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-db-table-wp_icl_strings.table.gz - 59.2 KB)
+0026.103 (0) Table wp_icl_translate: Total expected rows (approximate): 0
+0026.110 (0) Table wp_icl_translate: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0026.113 (0) Table wp_icl_translate: finishing file (backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-db-table-wp_icl_translate.table.gz - 0.4 KB)
+0026.123 (0) Table wp_icl_translate_job: Total expected rows (approximate): 0
+0026.129 (0) Table wp_icl_translate_job: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0026.132 (0) Table wp_icl_translate_job: finishing file (backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-db-table-wp_icl_translate_job.table.gz - 0.4 KB)
+0026.141 (0) Table wp_icl_translation_batches: Total expected rows (approximate): 0
+0026.147 (0) Table wp_icl_translation_batches: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0026.149 (0) Table wp_icl_translation_batches: finishing file (backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-db-table-wp_icl_translation_batches.table.gz - 0.3 KB)
+0026.158 (0) Table wp_icl_translation_status: Total expected rows (approximate): 0
+0026.164 (0) Table wp_icl_translation_status: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0026.167 (0) Table wp_icl_translation_status: finishing file (backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-db-table-wp_icl_translation_status.table.gz - 0.5 KB)
+0026.175 (0) Table wp_icl_translations: Total expected rows (approximate): 169
+0026.184 (0) Table wp_icl_translations: Rows added in this batch (start page: 0; next: finished): 167 in 0.01 seconds
+0026.187 (0) Table wp_icl_translations: finishing file (backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-db-table-wp_icl_translations.table.gz - 1.8 KB)
+0026.197 (0) Table wp_mail_bank: Total expected rows (approximate): 6
+0026.205 (0) Table wp_mail_bank: Rows added in this batch (start page: 0; next: finished): 6 in 0.01 seconds
+0026.207 (0) Table wp_mail_bank: finishing file (backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-db-table-wp_mail_bank.table.gz - 0.4 KB)
+0026.216 (0) Table wp_mail_bank_logs: Total expected rows (approximate): 1110
+0026.576 (0) Table wp_mail_bank_logs: Rows added in this batch (start page: 0; next: finished): 1110 in 0.36 seconds
+0026.580 (0) Table wp_mail_bank_logs: finishing file (backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-db-table-wp_mail_bank_logs.table.gz - 541.2 KB)
+0026.591 (0) Table wp_mail_bank_meta: Total expected rows (approximate): 4
+0026.601 (0) Table wp_mail_bank_meta: Rows added in this batch (start page: 0; next: finished): 4 in 0.01 seconds
+0026.605 (0) Table wp_mail_bank_meta: finishing file (backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-db-table-wp_mail_bank_meta.table.gz - 1.2 KB)
+0026.615 (0) Table wp_redirects: Total expected rows (approximate): 0
+0026.623 (0) Table wp_redirects: Rows added in this batch (start page: 0; next: finished): 1 in 0.01 seconds
+0026.626 (0) Table wp_redirects: finishing file (backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-db-table-wp_redirects.table.gz - 0.4 KB)
+0026.635 (0) Table wp_urmc_lists: Total expected rows (approximate): 0
+0026.641 (0) Table wp_urmc_lists: Rows added in this batch (start page: 0; next: finished): 1 in 0.00 seconds
+0026.643 (0) Table wp_urmc_lists: finishing file (backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-db-table-wp_urmc_lists.table.gz - 0.6 KB)
+0026.652 (0) Table wp_user_registration_sessions: Total expected rows (approximate): 16
+0026.659 (0) Table wp_user_registration_sessions: Rows added in this batch (start page: 0; next: finished): 16 in 0.00 seconds
+0026.662 (0) Table wp_user_registration_sessions: finishing file (backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-db-table-wp_user_registration_sessions.table.gz - 0.6 KB)
+0026.671 (0) Table wp_wfblockediplog: Total expected rows (approximate): 23
+0026.677 (0) Table wp_wfblockediplog: Rows added in this batch (start page: 0; next: finished): 16 in 0.00 seconds
+0026.680 (0) Table wp_wfblockediplog: finishing file (backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-db-table-wp_wfblockediplog.table.gz - 0.6 KB)
+0026.690 (0) Table wp_wfblocks7: Total expected rows (approximate): 0
+0026.696 (0) Table wp_wfblocks7: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0026.699 (0) Table wp_wfblocks7: finishing file (backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-db-table-wp_wfblocks7.table.gz - 0.4 KB)
+0026.708 (0) Table wp_wfconfig: Total expected rows (approximate): 255
+0026.850 (0) Table wp_wfconfig: Rows added in this batch (start page: 0; next: finished): 261 in 0.14 seconds
+0026.854 (0) Table wp_wfconfig: finishing file (backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-db-table-wp_wfconfig.table.gz - 430.1 KB)
+0026.864 (0) Table wp_wfcrawlers: Total expected rows (approximate): 4
+0026.870 (0) Table wp_wfcrawlers: Rows added in this batch (start page: 0; next: finished): 4 in 0.00 seconds
+0026.873 (0) Table wp_wfcrawlers: finishing file (backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-db-table-wp_wfcrawlers.table.gz - 0.5 KB)
+0026.881 (0) Table wp_wffilechanges: Total expected rows (approximate): 0
+0026.887 (0) Table wp_wffilechanges: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0026.889 (0) Table wp_wffilechanges: finishing file (backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-db-table-wp_wffilechanges.table.gz - 0.3 KB)
+0026.900 (0) Table wp_wffilemods: Total expected rows (approximate): 8525
+0027.350 (0) Table wp_wffilemods: binary mysqldump finished (writes: 36) in 0.45 seconds
+0027.355 (0) Table wp_wffilemods: finishing file (backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-db-table-wp_wffilemods.table.gz - 756.8 KB)
+0027.365 (0) Table wp_wfhits: Total expected rows (approximate): 94
+0027.378 (0) Table wp_wfhits: Rows added in this batch (start page: 0; next: finished): 95 in 0.01 seconds
+0027.382 (0) Table wp_wfhits: finishing file (backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-db-table-wp_wfhits.table.gz - 4.4 KB)
+0027.391 (0) Table wp_wfhoover: Total expected rows (approximate): 0
+0027.396 (0) Table wp_wfhoover: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0027.399 (0) Table wp_wfhoover: finishing file (backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-db-table-wp_wfhoover.table.gz - 0.3 KB)
+0027.408 (0) Table wp_wfissues: Total expected rows (approximate): 20
+0027.417 (0) Table wp_wfissues: Rows added in this batch (start page: 0; next: finished): 20 in 0.01 seconds
+0027.420 (0) Table wp_wfissues: finishing file (backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-db-table-wp_wfissues.table.gz - 5.1 KB)
+0027.429 (0) Table wp_wfknownfilelist: Total expected rows (approximate): 8194
+0027.667 (0) Table wp_wfknownfilelist: binary mysqldump finished (writes: 28) in 0.24 seconds
+0027.672 (0) Table wp_wfknownfilelist: finishing file (backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-db-table-wp_wfknownfilelist.table.gz - 84.6 KB)
+0027.682 (0) Table wp_wflivetraffichuman: Total expected rows (approximate): 0
+0027.688 (0) Table wp_wflivetraffichuman: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0027.691 (0) Table wp_wflivetraffichuman: finishing file (backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-db-table-wp_wflivetraffichuman.table.gz - 0.3 KB)
+0027.700 (0) Table wp_wflocs: Total expected rows (approximate): 1
+0027.706 (0) Table wp_wflocs: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0027.709 (0) Table wp_wflocs: finishing file (backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-db-table-wp_wflocs.table.gz - 0.4 KB)
+0027.717 (0) Table wp_wflogins: Total expected rows (approximate): 697
+0027.774 (0) Table wp_wflogins: Rows added in this batch (start page: 0; next: finished): 1485 in 0.05 seconds
+0027.778 (0) Table wp_wflogins: finishing file (backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-db-table-wp_wflogins.table.gz - 37.9 KB)
+0027.789 (0) Table wp_wfls_2fa_secrets: Total expected rows (approximate): 0
+0027.795 (0) Table wp_wfls_2fa_secrets: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0027.797 (0) Table wp_wfls_2fa_secrets: finishing file (backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-db-table-wp_wfls_2fa_secrets.table.gz - 0.4 KB)
+0027.806 (0) Table wp_wfls_settings: Total expected rows (approximate): 17
+0027.813 (0) Table wp_wfls_settings: Rows added in this batch (start page: 0; next: finished): 19 in 0.00 seconds
+0027.815 (0) Table wp_wfls_settings: finishing file (backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-db-table-wp_wfls_settings.table.gz - 0.8 KB)
+0027.824 (0) Table wp_wfnotifications: Total expected rows (approximate): 0
+0027.831 (0) Table wp_wfnotifications: Rows added in this batch (start page: 0; next: finished): 2 in 0.00 seconds
+0027.833 (0) Table wp_wfnotifications: finishing file (backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-db-table-wp_wfnotifications.table.gz - 0.6 KB)
+0027.843 (0) Table wp_wfpendingissues: Total expected rows (approximate): 0
+0027.849 (0) Table wp_wfpendingissues: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0027.852 (0) Table wp_wfpendingissues: finishing file (backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-db-table-wp_wfpendingissues.table.gz - 0.4 KB)
+0027.862 (0) Table wp_wfreversecache: Total expected rows (approximate): 0
+0027.867 (0) Table wp_wfreversecache: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0027.870 (0) Table wp_wfreversecache: finishing file (backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-db-table-wp_wfreversecache.table.gz - 0.3 KB)
+0027.879 (0) Table wp_wfsnipcache: Total expected rows (approximate): 0
+0027.885 (0) Table wp_wfsnipcache: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0027.887 (0) Table wp_wfsnipcache: finishing file (backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-db-table-wp_wfsnipcache.table.gz - 0.4 KB)
+0027.896 (0) Table wp_wfstatus: Total expected rows (approximate): 1215
+0027.924 (0) Table wp_wfstatus: Rows added in this batch (start page: 0; next: finished): 1275 in 0.03 seconds
+0027.928 (0) Table wp_wfstatus: finishing file (backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-db-table-wp_wfstatus.table.gz - 21.9 KB)
+0027.937 (0) Table wp_wftrafficrates: Total expected rows (approximate): 0
+0027.942 (0) Table wp_wftrafficrates: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0027.945 (0) Table wp_wftrafficrates: finishing file (backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-db-table-wp_wftrafficrates.table.gz - 0.3 KB)
+0027.952 (0) backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-db-table-wp_options.table.gz (1/65): adding to final database dump
+0027.999 (0) backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-db-table-wp_users.table.gz (2/65): adding to final database dump
+0028.011 (0) backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-db-table-wp_usermeta.table.gz (3/65): adding to final database dump
+0028.064 (0) backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-db-table-wp_commentmeta.table.gz (4/65): adding to final database dump
+0028.068 (0) backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-db-table-wp_comments.table.gz (5/65): adding to final database dump
+0028.074 (0) backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-db-table-wp_imagify_files.table.gz (6/65): adding to final database dump
+0028.077 (0) backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-db-table-wp_imagify_folders.table.gz (7/65): adding to final database dump
+0028.081 (0) backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-db-table-wp_links.table.gz (8/65): adding to final database dump
+0028.083 (0) backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-db-table-wp_postmeta.table.gz (9/65): adding to final database dump
+0028.095 (0) backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-db-table-wp_posts.table.gz (10/65): adding to final database dump
+0028.162 (0) backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-db-table-wp_term_relationships.table.gz (11/65): adding to final database dump
+0028.165 (0) backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-db-table-wp_term_taxonomy.table.gz (12/65): adding to final database dump
+0028.168 (0) backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-db-table-wp_termmeta.table.gz (13/65): adding to final database dump
+0028.170 (0) backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-db-table-wp_terms.table.gz (14/65): adding to final database dump
+0028.173 (0) backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-db-table-wp_gdpr_consent.table.gz (15/65): adding to final database dump
+0028.187 (0) backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-db-table-wp_gdpr_userlogs.table.gz (16/65): adding to final database dump
+0028.191 (0) backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-db-table-wp_icl_content_status.table.gz (17/65): adding to final database dump
+0028.194 (0) backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-db-table-wp_icl_core_status.table.gz (18/65): adding to final database dump
+0028.196 (0) backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-db-table-wp_icl_flags.table.gz (19/65): adding to final database dump
+0028.199 (0) backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-db-table-wp_icl_languages.table.gz (20/65): adding to final database dump
+0028.202 (0) backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-db-table-wp_icl_languages_translations.table.gz (21/65): adding to final database dump
+0028.229 (0) backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-db-table-wp_icl_locale_map.table.gz (22/65): adding to final database dump
+0028.233 (0) backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-db-table-wp_icl_message_status.table.gz (23/65): adding to final database dump
+0028.236 (0) backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-db-table-wp_icl_mo_files_domains.table.gz (24/65): adding to final database dump
+0028.238 (0) backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-db-table-wp_icl_node.table.gz (25/65): adding to final database dump
+0028.240 (0) backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-db-table-wp_icl_reminders.table.gz (26/65): adding to final database dump
+0028.243 (0) backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-db-table-wp_icl_string_packages.table.gz (27/65): adding to final database dump
+0028.245 (0) backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-db-table-wp_icl_string_pages.table.gz (28/65): adding to final database dump
+0028.248 (0) backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-db-table-wp_icl_string_positions.table.gz (29/65): adding to final database dump
+0028.251 (0) backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-db-table-wp_icl_string_status.table.gz (30/65): adding to final database dump
+0028.253 (0) backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-db-table-wp_icl_string_translations.table.gz (31/65): adding to final database dump
+0028.257 (0) backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-db-table-wp_icl_string_urls.table.gz (32/65): adding to final database dump
+0028.259 (0) backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-db-table-wp_icl_strings.table.gz (33/65): adding to final database dump
+0028.281 (0) backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-db-table-wp_icl_translate.table.gz (34/65): adding to final database dump
+0028.284 (0) backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-db-table-wp_icl_translate_job.table.gz (35/65): adding to final database dump
+0028.286 (0) backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-db-table-wp_icl_translation_batches.table.gz (36/65): adding to final database dump
+0028.289 (0) backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-db-table-wp_icl_translation_status.table.gz (37/65): adding to final database dump
+0028.291 (0) backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-db-table-wp_icl_translations.table.gz (38/65): adding to final database dump
+0028.294 (0) backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-db-table-wp_mail_bank.table.gz (39/65): adding to final database dump
+0028.297 (0) backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-db-table-wp_mail_bank_logs.table.gz (40/65): adding to final database dump
+0028.554 (0) backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-db-table-wp_mail_bank_meta.table.gz (41/65): adding to final database dump
+0028.558 (0) backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-db-table-wp_redirects.table.gz (42/65): adding to final database dump
+0028.562 (0) backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-db-table-wp_urmc_lists.table.gz (43/65): adding to final database dump
+0028.565 (0) backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-db-table-wp_user_registration_sessions.table.gz (44/65): adding to final database dump
+0028.568 (0) backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-db-table-wp_wfblockediplog.table.gz (45/65): adding to final database dump
+0028.572 (0) backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-db-table-wp_wfblocks7.table.gz (46/65): adding to final database dump
+0028.575 (0) backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-db-table-wp_wfconfig.table.gz (47/65): adding to final database dump
+0028.715 (0) backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-db-table-wp_wfcrawlers.table.gz (48/65): adding to final database dump
+0028.719 (0) backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-db-table-wp_wffilechanges.table.gz (49/65): adding to final database dump
+0028.722 (0) backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-db-table-wp_wffilemods.table.gz (50/65): adding to final database dump
+0028.898 (0) backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-db-table-wp_wfhits.table.gz (51/65): adding to final database dump
+0028.903 (0) backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-db-table-wp_wfhoover.table.gz (52/65): adding to final database dump
+0028.906 (0) backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-db-table-wp_wfissues.table.gz (53/65): adding to final database dump
+0028.910 (0) backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-db-table-wp_wfknownfilelist.table.gz (54/65): adding to final database dump
+0028.941 (0) backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-db-table-wp_wflivetraffichuman.table.gz (55/65): adding to final database dump
+0028.944 (0) backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-db-table-wp_wflocs.table.gz (56/65): adding to final database dump
+0028.946 (0) backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-db-table-wp_wflogins.table.gz (57/65): adding to final database dump
+0028.962 (0) backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-db-table-wp_wfls_2fa_secrets.table.gz (58/65): adding to final database dump
+0028.965 (0) backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-db-table-wp_wfls_settings.table.gz (59/65): adding to final database dump
+0028.968 (0) backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-db-table-wp_wfnotifications.table.gz (60/65): adding to final database dump
+0028.970 (0) backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-db-table-wp_wfpendingissues.table.gz (61/65): adding to final database dump
+0028.973 (0) backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-db-table-wp_wfreversecache.table.gz (62/65): adding to final database dump
+0028.974 (0) backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-db-table-wp_wfsnipcache.table.gz (63/65): adding to final database dump
+0028.977 (0) backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-db-table-wp_wfstatus.table.gz (64/65): adding to final database dump
+0028.986 (0) backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-db-table-wp_wftrafficrates.table.gz (65/65): adding to final database dump
+0029.002 (0) backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-db.gz: finished writing out complete database file (2368 KB)
+0029.087 (0) Total database tables backed up: 65 (backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-db.gz, size: 2446572, sha1: 30f35707f83827cf3d3f6c6f6b31e41351751310, sha256: 0f61637c72525fbdcc31e58a64789c8ab587dc20c7e159d670466ba58a209f97)
+0029.107 (0) backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0029.109 (0) backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0029.112 (0) backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0029.114 (0) backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-others.zip: others: This file has not yet been successfully uploaded: will queue
+0029.117 (0) backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-db.gz: db: This file has not yet been successfully uploaded: will queue
+0029.119 (0) Saving backup history. Total backup size: 119.6 MB
+0029.128 (0) Requesting upload of the files that have not yet been successfully uploaded (5)
+0029.135 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0029.138 (0) No remote despatch: user chose no remote backup service
+0029.141 (0) Recording as successfully uploaded: backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-plugins.zip
+0029.146 (0) Recording as successfully uploaded: backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-themes.zip
+0029.152 (0) Recording as successfully uploaded: backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-uploads.zip
+0029.158 (0) Recording as successfully uploaded: backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-others.zip
+0029.163 (0) Recording as successfully uploaded: backup_2021-07-16-0845_VeraJohn_Kostenlos_c819977aa8cf-db.gz
+0029.172 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=7, retain_db=7
+0029.176 (0) Number of backup sets in history: 8; groups (db): 1
+0029.178 (0) Examining (for databases) backup set with group_id=0, nonce=c819977aa8cf, datestamp=1626425120 (Jul 16 2021 08:45:20)
+0029.181 (0) This backup set is the backup set just made, so will not be deleted.
+0029.181 (0) Examining (for databases) backup set with group_id=0, nonce=8a9cb38812fc, datestamp=1625823311 (Jul 09 2021 09:35:11)
+0029.181 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0029.183 (0) Examining (for databases) backup set with group_id=0, nonce=41cfd34a5a2d, datestamp=1625216864 (Jul 02 2021 09:07:44)
+0029.183 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0029.183 (0) Examining (for databases) backup set with group_id=0, nonce=94e2465fdf3d, datestamp=1624630161 (Jun 25 2021 14:09:21)
+0029.183 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0029.183 (0) Examining (for databases) backup set with group_id=0, nonce=ea1595d48164, datestamp=1624010401 (Jun 18 2021 10:00:01)
+0029.183 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0029.184 (0) Examining (for databases) backup set with group_id=0, nonce=995c30c885b4, datestamp=1623403223 (Jun 11 2021 09:20:23)
+0029.184 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0029.184 (0) Examining (for databases) backup set with group_id=0, nonce=2fb8d0798070, datestamp=1622819636 (Jun 04 2021 15:13:56)
+0029.184 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0029.184 (0) Examining (for databases) backup set with group_id=0, nonce=ae5d29a3bd2e, datestamp=1622201137 (May 28 2021 11:25:37)
+0029.184 (0) 1622201137: db: this set includes a database (backup_2021-05-28-1125_VeraJohn_Kostenlos_ae5d29a3bd2e-db.gz); db count is now 7
+0029.184 (0) 1622201137: db: over retain limit (7); will delete this database
+0029.184 (0) Delete file: backup_2021-05-28-1125_VeraJohn_Kostenlos_ae5d29a3bd2e-db.gz, service=none
+0029.186 (0) Deleting local copy (backup_2021-05-28-1125_VeraJohn_Kostenlos_ae5d29a3bd2e-db.gz)
+0029.191 (0) This backup set remains non-empty (f=1/d=0); will retain in history
+0029.193 (0) Number of backup sets in history: 8; groups (files): 1
+0029.196 (0) Examining (for files) backup set with nonce=c819977aa8cf, datestamp=1626425120 (Jul 16 2021 08:45:20)
+0029.196 (0) This backup set is the backup set just made, so will not be deleted.
+0029.198 (0) This backup set is the backup set just made, so will not be deleted.
+0029.198 (0) This backup set is the backup set just made, so will not be deleted.
+0029.199 (0) This backup set is the backup set just made, so will not be deleted.
+0029.199 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0029.201 (0) Examining (for files) backup set with nonce=8a9cb38812fc, datestamp=1625823311 (Jul 09 2021 09:35:11)
+0029.201 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0029.202 (0) Examining (for files) backup set with nonce=41cfd34a5a2d, datestamp=1625216864 (Jul 02 2021 09:07:44)
+0029.202 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0029.202 (0) Examining (for files) backup set with nonce=94e2465fdf3d, datestamp=1624630161 (Jun 25 2021 14:09:21)
+0029.202 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0029.202 (0) Examining (for files) backup set with nonce=ea1595d48164, datestamp=1624010401 (Jun 18 2021 10:00:01)
+0029.202 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0029.202 (0) Examining (for files) backup set with nonce=995c30c885b4, datestamp=1623403223 (Jun 11 2021 09:20:23)
+0029.203 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0029.203 (0) Examining (for files) backup set with nonce=2fb8d0798070, datestamp=1622819636 (Jun 04 2021 15:13:56)
+0029.203 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0029.203 (0) Examining (for files) backup set with nonce=ae5d29a3bd2e, datestamp=1622201137 (May 28 2021 11:25:37)
+0029.203 (0) plugins: over retain limit (7); will delete this file entity
+0029.203 (0) themes: over retain limit (7); will delete this file entity
+0029.203 (0) uploads: over retain limit (7); will delete this file entity
+0029.203 (0) others: over retain limit (7); will delete this file entity
+0029.203 (0) Delete file: backup_2021-05-28-1125_VeraJohn_Kostenlos_ae5d29a3bd2e-plugins.zip, service=none
+0029.205 (0) Deleting local copy (backup_2021-05-28-1125_VeraJohn_Kostenlos_ae5d29a3bd2e-plugins.zip)
+0029.209 (0) Delete file: backup_2021-05-28-1125_VeraJohn_Kostenlos_ae5d29a3bd2e-themes.zip, service=none
+0029.211 (0) Deleting local copy (backup_2021-05-28-1125_VeraJohn_Kostenlos_ae5d29a3bd2e-themes.zip)
+0029.213 (0) Delete file: backup_2021-05-28-1125_VeraJohn_Kostenlos_ae5d29a3bd2e-uploads.zip, service=none
+0029.216 (0) Deleting local copy (backup_2021-05-28-1125_VeraJohn_Kostenlos_ae5d29a3bd2e-uploads.zip)
+0029.221 (0) Delete file: backup_2021-05-28-1125_VeraJohn_Kostenlos_ae5d29a3bd2e-others.zip, service=none
+0029.223 (0) Deleting local copy (backup_2021-05-28-1125_VeraJohn_Kostenlos_ae5d29a3bd2e-others.zip)
+0029.229 (0) This backup set is now empty; will remove from history
+0029.231 (0) Corresponding log file (log.ae5d29a3bd2e.txt) not found - must have already been deleted
+0029.233 (0) Retain: saving new backup history (sets now: 7) and finishing retain operation
+0029.244 (0) Resume backup (c819977aa8cf, 0): finish run
+0029.250 (0) Decremented the semaphore (fd) by 1
+0029.255 (0) Semaphore (fd) unlocked
+0029.257 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0029.265 (0) The backup apparently succeeded and is now complete
+0029.268 (0) No email will/can be sent - the user has not configured an email address.
+0029.270 (0) Die Sicherung war anscheinend erfolgreich und ist nun vollständig

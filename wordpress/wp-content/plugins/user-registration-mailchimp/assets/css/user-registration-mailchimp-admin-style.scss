@@ -1,0 +1,128 @@
+/**
+ * Imports
+ **/
+@import '../../../user-registration/assets/css/variables/variables';
+
+.urmc-form-field[readonly="readonly"] {
+	pointer-events: none;
+	background: #a9a9a9;
+	color: $white;
+}
+
+.urmc-edit-mapping-data {
+	float: left;
+	margin-right: 20px;
+}
+
+.urmc-mapping-grid .urmc-form-field {
+	width: 200px;
+}
+
+.urmc-form-field-node {
+	margin-left: 20px;
+	width: 200px;
+}
+
+#ur-mailchimp-api-key {
+	input {
+		&.ur-mailchimp-api-key {
+			margin-left: 8px;
+		}
+	}
+
+	.validateStatus {
+		margin-left: 4px;
+		display: inline-block;
+		vertical-align: middle;
+	}
+}
+
+#ur-mailchimp-api-status {
+	margin-top: 4px;
+
+	.ur-mailchimp-status-label {
+		margin-right: 8px;
+	}
+
+	.ur-mailchimp-status {
+		padding: 3px 8px 4px;
+		border-radius: 12px;
+		&.ur-mailchimp-online {
+			color: $white;
+			background: $green;
+		}
+
+		&.ur-mailchimp-offline {
+			background: $color_gray_four;
+		}
+	}
+}
+
+.urmc-mailchimp-group-wrap {
+	label {
+		&.urmc-mapping-label,
+		&.ur-mailchimp-group-title {
+			display: block;
+			font-weight: 500;
+			margin-bottom: 10px;
+		}
+
+		&.ur-mailchimp-group-title {
+			padding: 10px;
+			margin: -10px -10px 10px -10px;
+			background: darken( $color_sortable_background, 4%);
+		}
+	}
+
+	.ur-mailchimp-group-type {
+		min-width: calc(33.3333% - 34px);
+		margin-right: 20px;
+		display: inline-block;
+		vertical-align: top;
+
+		&:last-child {
+			margin-right: 0;
+		}
+	}
+
+	.urmc-mailchimp-checkboxes,
+	.urmc-mailchimp-radio,
+	.urmc-mailchimp-dropdown {
+		background: $color_sortable_background;
+		padding: 10px;
+		margin-bottom: 10px;
+	}
+
+	.ur-check {
+		margin-bottom: 4px;
+	}
+
+	.urmc-mapping-data {
+		.urmc-form-field-node {
+			margin-left: 10px;
+		}
+	}
+}
+
+.urmc-mapping-node {
+	display: none;
+	margin-top: 10px;
+	border: 1px solid darken($color_sortable_background, 7%);
+
+	.urmc-mapping-grid {
+		padding: 10px 8px;
+		background: $color_sortable_background;
+
+		label {
+			&.urmc-mapping-label {
+				min-width: 250px;
+				display: inline-block;
+			}
+		}
+
+		&:nth-child(2n) {
+			background: $white;
+		}
+	}
+}
+
